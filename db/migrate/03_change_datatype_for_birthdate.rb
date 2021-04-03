@@ -1,1 +1,1 @@
-class ChangeDataTypeTo
+class ChangeDatatypeForBirthdate < ActiveRecord::M
